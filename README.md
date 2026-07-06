@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Nic.
 
-<!--
-**blazardsky/blazardsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer and designer based in Italy.
 
-Here are some ideas to get you started:
+I enjoy building interfaces where product thinking, interaction design and engineering meet, with a special attention to *accessibility*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current stack
+
+- TypeScript
+- React
+- Next.js
+- Astro
+- Hono
+- Drizzle
+- Payload CMS
+- WordPress
+
+## Disclaimer
+Most of my professional work is developed in private repositories for clients or agencies. If you'd like to review additional code samples or discuss implementation details, I'm happy to share selected examples during the interview process.
